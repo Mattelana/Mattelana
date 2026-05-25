@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Matteo 👋
 
-<!--
-**Mattelana/Mattelana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a college student at **Bentley University**, originally from **Stockholm and New York**.
 
-Here are some ideas to get you started:
+I'm interested in AI, startups, business, and building useful products that solve real problems. I enjoy working on projects that combine technology, creativity, and entrepreneurship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m into
+- Fun startup ideas
+- Fun small applications I build over the weekend
+- Creative tech and media
+- Learning by building
+
+### What I’m currently focused on
+- Studying business and AI at Bentley
+- Building AI tools for companies
+- Exploring new startup ideas
+- Improving my coding and technical skills
+
+### Current mindset
+Build fast. Learn faster. Make things useful.
